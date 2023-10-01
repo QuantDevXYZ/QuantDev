@@ -1,0 +1,1 @@
+cd D:\QuantDev & python coinbse\dwh.py & python signals/hello_quantdev.py & python coinbase/rebalance.py
